@@ -1,0 +1,23 @@
+{
+  "name": "spandana-r",
+  "version": "1.0.0",
+  "description": "NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/29Spandana/Spandana-R.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/29Spandana/Spandana-R/issues"
+  },
+  "homepage": "https://github.com/29Spandana/Spandana-R#readme",
+  "publishConfig": {
+    "@waseemahmed116:registry": "https://npm.pkg.github.com"
+  }
+}
